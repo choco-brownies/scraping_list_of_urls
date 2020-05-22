@@ -1,0 +1,5 @@
+venv/
+.DS_Store
+.idea/
+scrapeurls/scrapeurls/__pycache__/
+scrapeurls/scrapeurls/spiders/__pycache__
